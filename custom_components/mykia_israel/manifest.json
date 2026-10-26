@@ -1,0 +1,12 @@
+{
+  "domain": "mykia_israel",
+  "name": "My Kia Israel",
+  "version": "0.1.0",
+  "codeowners": ["@alexpekurovsky"],
+  "config_flow": true,
+  "documentation": "https://github.com/alexpekurovsky/ha-mykia-israel",
+  "issue_tracker": "https://github.com/alexpekurovsky/ha-mykia-israel/issues",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": []
+}

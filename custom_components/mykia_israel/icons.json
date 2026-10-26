@@ -1,0 +1,43 @@
+{
+  "entity": {
+    "binary_sensor": {
+      "charging": {
+        "default": "mdi:ev-station"
+      },
+      "engine": {
+        "default": "mdi:engine"
+      },
+      "locked": {
+        "default": "mdi:car-door-lock"
+      }
+    },
+    "device_tracker": {
+      "car": {
+        "default": "mdi:car"
+      }
+    },
+    "sensor": {
+      "address": {
+        "default": "mdi:map-marker"
+      },
+      "battery_range": {
+        "default": "mdi:ev-plug-type2"
+      },
+      "charging_mode": {
+        "default": "mdi:ev-station"
+      },
+      "charging_time_remaining": {
+        "default": "mdi:timer-outline"
+      },
+      "battery_voltage": {
+        "default": "mdi:car-battery"
+      },
+      "heading": {
+        "default": "mdi:compass"
+      },
+      "speed": {
+        "default": "mdi:speedometer"
+      }
+    }
+  }
+}
